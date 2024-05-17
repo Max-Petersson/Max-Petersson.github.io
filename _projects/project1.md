@@ -14,4 +14,3 @@ title: Idun
 ### Overview
 Idun is a realtime strategy game, 
 
-![](src/images/TutorialP1.gif)
