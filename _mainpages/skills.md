@@ -8,10 +8,10 @@ id: skills
 
 - Unreal 5 
 - Unity
-- SDL2
 - C++
 - C#
 - Blueprints
+- AI
 
 **Tools & Technologies**
 
