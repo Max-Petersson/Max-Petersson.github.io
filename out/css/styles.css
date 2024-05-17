@@ -1203,10 +1203,6 @@ video {
   margin-bottom: 2.25rem;
 }
 
-.mb-auto {
-  margin-bottom: auto;
-}
-
 .ml-auto {
   margin-left: auto;
 }
@@ -1221,6 +1217,10 @@ video {
 
 .mt-6 {
   margin-top: 1.5rem;
+}
+
+.mb-auto {
+  margin-bottom: auto;
 }
 
 .mt-8 {
@@ -1415,16 +1415,16 @@ video {
   --tw-bg-opacity: 0.5;
 }
 
+.bg-\[url\(\'\{\{project\.img\}\}\'\)\] {
+  background-image: url('{{project.img}}');
+}
+
 .bg-\[url\(\'https\:\/\/via\.placeholder\.com\/1440x810\'\)\] {
   background-image: url('https://via.placeholder.com/1440x810');
 }
 
 .bg-\[url\(\'src\/images\/IDUN_Banner\.png\'\)\] {
   background-image: url('src/images/IDUN_Banner.png');
-}
-
-.bg-\[url\(\'\{\{project\.img\}\}\'\)\] {
-  background-image: url('{{project.img}}');
 }
 
 .from-zinc-950 {
@@ -1518,11 +1518,6 @@ video {
   text-align: center;
 }
 
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
-}
-
 .text-base {
   font-size: 1rem;
   line-height: 1.5rem;
@@ -1533,14 +1528,19 @@ video {
   line-height: 1.75rem;
 }
 
-.text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-}
-
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
+}
+
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
 }
 
 .font-bold {
