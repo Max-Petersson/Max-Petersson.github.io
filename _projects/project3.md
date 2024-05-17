@@ -4,7 +4,7 @@ title: GOAP
 
 ![This is a image!](https://via.placeholder.com/1920x1080 "Image caption")
 
-# Project 2
+# GOAP
 
 - **Developed:** This and that year
 - **Genre:** Platformer

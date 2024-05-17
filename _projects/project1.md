@@ -6,11 +6,13 @@ title: Idun
 
 # Idun
 
-- **Developed:** 2023-2024
+- **Developed:** 2021-2024
 - **Company** Idun Interactive
 - **Genre:** RTS, Tower Defense, Resource Management
 - **Role:** Intern Programmer
 
 ### Overview
-Idun is a realtime strategy game, 
+Idun Interactive is the company where I had my internship.
+
+
 

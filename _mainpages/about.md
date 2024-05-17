@@ -11,19 +11,18 @@ Describe yourself a bit.
 ### Experience
 **Role** 
 
-Company
-_20xx - 20xx, Location_
+Idun Interactive
+_2023 - 2024, Gothenburg_
 
-Summary of what you did at the place
-
-- A bullet point for bragging
-- And for boasting
+- Implemented the meta gameplay
+- Handled save files
+- Hooked up Steam achievements
 
 
 ### Education
 
 **Game Creator Programmer** Yrgo 2022 - 2024, Gothenburg
 
-Name of education
-School
-20xx - 20xx, Location
+**Economics**
+Donner gymnasiet 
+2017 - 20202, Gothenburg

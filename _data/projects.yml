@@ -1,23 +1,23 @@
 - id: project-1
   title: Idun
   img: 'src/images/IDUN_Bannerpng.png'
-  tags: ["C# ", "Unity ", "Game Development "]
+  tags: ["C# ", "Unity "]
   file: "_projects/project1.md"
 
 - id: project-2
   title: Flesh And Stone
-  img: 'https://via.placeholder.com/1440x810'
-  tags: ["Blueprints ", "Unreal ", "Game Development "]
+  img: 'src/images/FET_Banner.png'
+  tags: ["Blueprints ", "Unreal ", "Behaviour Trees ", "AI"]
   file: "_projects/project2.md"
 
 - id: project-3
   title: GOAP
   img: 'https://via.placeholder.com/1440x810'
-  tags: ["C++ ", "Blueprints ", "Unreal ", "Game Development ", "AI "]
-  file: "_projects/project2.md"
+  tags: ["C++ ", "Blueprints ", "Unreal ",  "AI"]
+  file: "_projects/project3.md"
 
 - id: project-4
   title: State Machine
   img: 'https://via.placeholder.com/1440x810'
-  tags: ["C++ ", "Unreal ", "Game Development "]
-  file: "_projects/project2.md"
+  tags: ["C++ ", "Unreal ",  "AI"]
+  file: "_projects/project4.md"

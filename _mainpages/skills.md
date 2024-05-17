@@ -15,8 +15,8 @@ id: skills
 
 **Tools & Technologies**
 
-Rider, Visual Studio, Github,
-Figma, Miro, Slack, Discord, etc
+Visual Studio, Github,
+Miro, Discord
 
 **Other Skills**
 
@@ -31,5 +31,5 @@ English (professional)
 
 **Social**
 
-[Linkedin](https://linkedin.com/)
+[Linkedin](https://linkedin.com/in/max-petersson-26369a261/)
 
