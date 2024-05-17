@@ -1427,6 +1427,10 @@ video {
   background-image: url('src/images/IDUN_Banner.png');
 }
 
+.bg-\[url\(\'src\/images\/IDUN_Bannerpng\.png\'\)\] {
+  background-image: url('src/images/IDUN_Bannerpng.png');
+}
+
 .from-zinc-950 {
   --tw-gradient-from: #09090b var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(9 9 11 / 0) var(--tw-gradient-to-position);

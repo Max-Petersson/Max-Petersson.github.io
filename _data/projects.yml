@@ -1,6 +1,6 @@
 - id: project-1
   title: Idun
-  img: 'src/images/IDUN_Banner.png'
+  img: 'src/images/IDUN_Bannerpng.png'
   tags: ["C# ", "Unity ", "Game Development "]
   file: "_projects/project1.md"
 
