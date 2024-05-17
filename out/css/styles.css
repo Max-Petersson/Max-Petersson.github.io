@@ -1423,10 +1423,6 @@ video {
   background-image: url('https://via.placeholder.com/1440x810');
 }
 
-.bg-\[url\(\'src\/images\/IDUN_Banner\.png\'\)\] {
-  background-image: url('src/images/IDUN_Banner.png');
-}
-
 .bg-\[url\(\'src\/images\/IDUN_Bannerpng\.png\'\)\] {
   background-image: url('src/images/IDUN_Bannerpng.png');
 }
