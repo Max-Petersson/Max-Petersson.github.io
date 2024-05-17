@@ -1,5 +1,5 @@
 ---
-title: Project 1
+title: Idun
 ---
 
 ![This is a image!](src/images/IdunTemp.png "Image caption")
