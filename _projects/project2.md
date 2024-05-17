@@ -38,3 +38,11 @@ Each condition had its own combo or two that the boss could randomly pick. Coupl
 
 ![](src/images/BossBehaviourTree.png)
 
+### Basic Golem
+The basic golem AI was really simple, walk towards the player, when near enough, try to attack. 
+I hade a much more advanced system for it, where the AI would take turns trying to attack the player based on who the player was currently battling, but this was simply not as fun as having thoughtless punching bags and so the group made a collective decision to dumb it down!
+
+### Ranged Golem
+This AI was created using only Blueprints, it would only channel its attack if it had a clear line of sight of the player. If it was hit during this channel, the channeling would cancel. This enemy was stationary so no movement logic was needed.
+
+### Level Design
