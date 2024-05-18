@@ -7,7 +7,7 @@
 - id: project-2
   title: Flesh And Stone
   img: 'src/images/FET_Banner.png'
-  tags: ["Blueprints ", "Unreal ", "Behaviour Trees ", "AI"]
+  tags: ["Blueprints ", "Unreal ", "Behavior Trees ", "AI"]
   file: "_projects/project2.md"
 
 - id: project-3
