@@ -6,8 +6,26 @@ title: State Machine
 
 # State Machine
 
-- **Developed:** This and that year
-- **Genre:** Platformer
+- **Developed:** 2023
+- **Genre:** AI System
 
 ### Overview
-Trolling gank continue Red Dead OP gold sink MOBA MMO Adventure game demo. Crash Bandicoot Sega Genesis nerf Super Mario emulator flip-screen MMORPG unlimited ammo Sidescroller. Analog control Borderlands Grand Theft Auto Game Over beastiary FP overlay Metal Gear indie. Red Dead Redemption W+M1 SNES stats going gold power-Up casual KK Driving simulator Assassin's Creed.
+This finite-state machine was buillt during my master thesis were my group tried to create a soulslike boss fight along with simpler enemies. 
+It consists of a StateMachine component, the states were UObjects coded in C++.
+
+The Enemies used the pawnsense component in order to sense the player, along with some additional features in order to determine if there was a line of sight to the player.
+
+I created two enemies with this state machine.
+
+### Stationary Plant
+![](src/images/StateMachine/StateMachineStationary.png)
+
+If a player got to close to the plant, it would wake up. If there was a line of sight to the player, it would then decide on wether to use a ranged attack or a melee attack. 
+
+The hurt, dead and stunned state could be entered from any state.
+![](src/images/StateMachine/StationaryPlantShow.gif)
+
+### Moving Plant
+![](src/images/StateMachine/StateMachineMovingPlant.png)
+This plant was my attempt at recreating the notorius dog enemies in the actual souls games.
+An annoying and fast enemy. 
