@@ -10,11 +10,9 @@ I am a programmer, mainly focused on game development. Proficient in both C# and
 
 
 ### Experience
-**Role** 
 
 Idun Interactive
-_2023 - 2024, 7 months, Gothenburg_
-
+_2023 - 2024, 7 months internship, Gothenburg_
 - Implemented the meta gameplay
 - Handled save files
 - Hooked up Steam achievements
