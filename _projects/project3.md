@@ -24,6 +24,8 @@ When no player is near the stand. The goal of doint nothing has the highest prio
 
 Here is the code behind the planning:
 ![](src/images/GOAP/Planner.png)
+The CheckProceduralPreconditions method checks for the preconditions within an action and if they need a certain worldState to be true.
+Could be that an enemy needs a weapon to be lying on the ground in order for them to pick it up.
 ![](src/images/GOAP/BuildGraph.png)
 
 The BuildGraph function gets recursively called until it no longer can build any nodes. Thereby resulting in a plan. 
