@@ -26,8 +26,8 @@ When on the planet side, the space station is visible and it is also a represent
 
 ![](src/images/HotReload.gif)
 
-I also created a crafting system, almost everything in the game can be used as materials for crafting, and the output of a recipe can also be almost anything.
+I also created a crafting system, almost everything in the game can be used as materials for crafting, and the output of a recipe can be almost anything.
 
-The actual space station is a 2 dimensional array och Classes that persists between levels. Each instance has a Roomdata associated with it, dictating if the room is a storage, production, producer or merchant room. 
+The actual space station is a 2 dimensional array of Classes that persists between levels. Each instance has a Roomdata associated with it, dictating if the room is a storage, production, producer or merchant room. 
 
 Special thanks to Gustav Hagerling, former VFX lead at dice and CEO of Idun interactive for giving me the opportunity to work with him!

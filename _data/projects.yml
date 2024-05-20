@@ -12,12 +12,12 @@
 
 - id: project-3
   title: GOAP
-  img: 'https://via.placeholder.com/1440x810'
+  img: 'src/images/GOAP/TraderGoap.png'
   tags: ["C++ ", "Blueprints ", "Unreal ",  "AI"]
   file: "_projects/project3.md"
 
 - id: project-4
   title: State Machine
-  img: 'https://via.placeholder.com/1440x810'
+  img: 'src/images/StateMachine/Banner.png'
   tags: ["C++ ", "Unreal ",  "AI"]
   file: "_projects/project4.md"
