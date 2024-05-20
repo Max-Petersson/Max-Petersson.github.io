@@ -47,3 +47,5 @@ Followed by
 ![](src/images/GOAP/Action2.png)
 
 And the "customerWaiting" is a worldState which gets triggered when a customer is waiting.
+
+All of the actual logic of what happens when an action is started and when an action is considered successful is written in C++.
