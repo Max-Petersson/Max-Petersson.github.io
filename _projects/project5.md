@@ -8,7 +8,7 @@ title: Tenstar Simulation
 
 - **Timeline:** 2024 - Current 
 - **Company** Tenstar Simulation
-- **Genre:** Vehicle Simulation, 
+- **Genre:** Vehicle Simulation 
 - **Role:** Unreal Engine Programmer
 
 ### Overview
