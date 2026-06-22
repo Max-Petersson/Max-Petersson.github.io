@@ -11,18 +11,18 @@ id: skills
 - C++
 - C#
 - Blueprints
-- AI
+- AI (State trees, Behavior Trees)
+- Slate
 
 **Tools & Technologies**
 
-Visual Studio, Github,
-Miro, Discord
+Visual Studio, Github
 
 **Other Skills**
 
 - Agile Development
-- Visma
-- Spreadsheet
+- Jenkins
+- Jira
 
 **Languages**
 

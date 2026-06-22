@@ -6,14 +6,19 @@ id: about
 
 ## About me
 
-I am a programmer, mainly focused on game development. Proficient in both C# and C++ and used to working in engines such as Unity and Unreal Engine 5, but I have dabbled with far smaller frameworks such as Monogames.
+I am a programmer, mainly focused on game development. Proficient in both C++ and C# with great knowledge of Unreal Engine 5 and partly Unity, but I have dabbled with far smaller frameworks such as Monogames.
 
 
 ### Experience
+Tenstar Simulation, Vehicle simulation
+_2024 - Current, Gothenburg_
+- Created a framework which allowed designers and other non programmers to create exercises in engine
+- Held multiple, cross discipinary workshops for a multitude of features
+- Gameplay AI using state trees
 
 Idun Interactive
 _2023 - 2024, 7 months internship, Gothenburg_
-- Implemented the meta gameplay
+- Implemented the meta "Base buidling" gameplay
 - Handled save files
 - Hooked up Steam achievements
 

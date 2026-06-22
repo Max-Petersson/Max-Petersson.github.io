@@ -1,3 +1,10 @@
+
+- id: project-5
+  title: Tenstar Simulation
+  img: 'src/images/TenstarSim.png'
+  tags: ["C++ ", "Unreal ", "AI", "Core Tech"]
+  file: "_projects/project5.md"
+
 - id: project-1
   title: Idun
   img: 'src/images/IDUN_Bannerpng.png'
